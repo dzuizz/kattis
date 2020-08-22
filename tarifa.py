@@ -4,5 +4,5 @@ t = 0
 for i in range(n):
     m = int(input())
     t += (x - m)
-t += x
+t += x 
 print(t)
